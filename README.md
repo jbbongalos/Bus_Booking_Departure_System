@@ -1,2 +1,11 @@
-# Bus_Booking_Departure_System
-This Python program is a Bus Booking and Departure System built using Tkinter for the graphical user interface and SQLite for the database. It allows an admin to register or log in, then manage buses and passengers easily. The admin can add, edit, and delete buses, register passengers, and generate simple booking receipts. The system checks bus capacity, prevents duplicate bookings, and stops the deletion of buses with registered passengers. All data is stored in a local database, making it saved even after closing the app. The interface uses buttons, labels, and tables for easy navigation, creating a simple and organized way to handle bus and passenger information.
+# Bus Booking and Departure System
+
+This repository contains a Python-based Bus Booking and Departure System developed using Tkinter for the graphical user interface and SQLite for data storage.
+
+# Contents
+- ✅ Admin login and registration
+- ✅ Bus management (add, edit, delete)
+- ✅ Passenger registration and booking
+- ✅ Booking validation and capacity checking
+- ✅ Receipt generation
+- ✅ Tkinter GUI and SQLite database files
