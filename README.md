@@ -4,7 +4,7 @@ This repository contains a Python-based Bus Booking and Departure System develop
 
 # Contents
 - ✅ Admin login and registration
-- ✅ Bus management (add, edit, delete)
+- ✅ Bus management Crud (Create, Read, Update and Delete)
 - ✅ Passenger registration and booking
 - ✅ Booking validation and capacity checking
 - ✅ Receipt generation
