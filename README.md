@@ -7,8 +7,8 @@ This repository contains a Python-based Bus Booking and Departure System develop
 - ✅ Bus management Crud (Create, Read, Update and Delete).
 - ✅ Passenger registration and booking
 - ✅ Booking validation and capacity checking
-- ✅ Receipt generation
-- ✅ Tkinter GUI and SQLite database files
+- ✅ Receipt generation.
+- ✅ Tkinter GUI and SQLite database files.
 - ✅ Python source code file.
 
 
