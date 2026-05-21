@@ -11,3 +11,5 @@ This repository contains a Python-based Bus Booking and Departure System develop
 - ✅ Tkinter GUI and SQLite database files
 - ✅ Python source code file
 
+git fetch origin
+git checkout 3-documentation-update
